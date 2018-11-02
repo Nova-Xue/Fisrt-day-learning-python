@@ -1,0 +1,5 @@
+ex13-ex15
+13 and 14 use argv to print
+15 to read 
+txt = open(filename)
+print(txt.read())
