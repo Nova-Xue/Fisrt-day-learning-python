@@ -1,0 +1,45 @@
+Actually I started yesterday but I did not realised that I can use github as a recorder
+I learned java before I was about to graduate from my college in a trainning institution 
+It is like a coding camp teaching students near my university whose majors are more or less realted to IT
+My java teacher was great and he somehow became a life tutor for me
+But the one who checked my jsp project as a graduation result from that camp ruined my passion
+I know there is still a willingness inside me to pursue a IT career for I chose my major as Communication Engieering with a passion
+And I stick to it til now
+I have arrived in America for 3 months and been eager to start a new life since then
+I have been struggling among the choices
+1.fing a job to support my own life
+2.go to college again to learn Computer Science from the beginning
+3.apply for graduate school
+But I guess, at least, I have to start to do something first rather than just thinking about the unknown future
+Then I decided to learn python on my own as I have wanted to since I learned Java
+
+
+
+I learned some C in my university and nearly all the basic of Java
+So python seemed quit easy to start with
+I am using "Learning Python 3 the Hard Way"
+And I finished the first 12 excerises yesterday
+Here are some that I learned
+
+variables names use underscore like "space_in_a_car = 4.0" 
+and  {} to qoute variables like print(f"Let`s talk about {my_name}.")
+f here is used to format string 
+and there is .format() as well
+
+
+use """ """ to print multiple lines or ''' '''
+\n for new line (called backslash)
+to print "\" use "\\"
+and "\`" for "`" etc
+\t for TAB
+
+
+print("how old r u ",end = ' ')
+age = input()
+
+or
+
+age = input("how old r y ")
+
+
+
